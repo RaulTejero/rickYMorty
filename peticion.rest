@@ -1,0 +1,9 @@
+get https://rickandmortyapi.com/api/character
+  
+###
+
+get https://rickandmortyapi.com/api/character?page=2
+
+####
+
+GET https://wordsapiv1.p.mashape.com/words/hola
